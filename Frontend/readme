@@ -1,5 +1,0 @@
-make your own .env file and include:
-
-REACT_APP_GOOGLE_API_KEY= make your own key with google maps.
-REACT_APP_BACKEND_URL=http://localhost:5000/api
-REACT_APP_ASSET_URL=http://localhost:5000/
