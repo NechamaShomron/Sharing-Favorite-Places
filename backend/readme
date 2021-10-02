@@ -1,2 +1,11 @@
+add a file nodemon.json with: 
+{
+  "env": {
+    "DB_USER": <your mongodb user>,
+    "DB_PASSWORD":  <your mongodb password>,
+    "DB_NAME":  <your mongodb collection name>,
+    "JWT_KEY":  <your token key>
+  }
+}
 
 start with npm install and then node app.js to install dependencies and run the app.
